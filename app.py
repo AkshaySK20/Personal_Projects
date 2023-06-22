@@ -1,6 +1,5 @@
 def divider(a, b):
     return a / b
-    # TODO
 
 
 a = int(input("Please enter the first number: "))
